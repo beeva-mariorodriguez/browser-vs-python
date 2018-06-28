@@ -9,7 +9,7 @@
 * restore session popup
 * multiple tabs when running multiple times
 
-## instructions
-* download [chromedriver](https://chromedriver.storage.googleapis.com/index.html?path=2.38/) and copy it to /usr/local/bin
+## instructions (ubuntu)
+* install chromedriver (``sudo apt install chromium-chromedriver``)
 * ``pip3 install -r requirements.txt``
-* ``pip3 ./controlchrome.py``
+* ``./controlchrome.py``
